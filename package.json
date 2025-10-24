@@ -1,0 +1,9 @@
+{
+  "name": "iiserb-shop-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
